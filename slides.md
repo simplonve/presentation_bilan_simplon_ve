@@ -35,17 +35,17 @@ Des milliers de ligne de code (+5000)
 - RailsGirls, 
 - Simplonsmus, 
 - HackElysée,
-- Porte Ouvertes Poleyrieux
+- Portes Ouvertes Poleyrieux
 
 ///
-Hackathons | Marathon numérique
+Hackathon | Marathon numérique
 
 St Martin de Valamas, le 19 Août 2015
     -> Data Tourisme 
 
 ![hackathon](images/hackathon.jpg "hackathon")
 ///
-Hackathons | Marathon numérique
+Hackathon | Marathon numérique
 Le Cheylard, Arche des Métiers, le 29 Septembre 2015
     -> Data Agroalimentaire 
 
@@ -70,7 +70,7 @@ Le Cheylard, Arche des Métiers, le 29 Septembre 2015
 
 ###Un programme chargé
 
-3 parcours : basé sur [OpenClassroom](https://openclassrooms.com/learning-paths/)
+3 parcours : basés sur [OpenClassroom](https://openclassrooms.com/learning-paths/)
 - Développeur logiciel
 - Intégrateur web
 - Animateur d'équipe | chef projet
@@ -115,7 +115,7 @@ L'après promo#1
 Pistes potentielles
  - atelier 30 heures / 2 mois lean-agile pour cadre
  - cours du soir sur la programmation pour salarié
- - summer camp pour développeur Lyonnais
+ - summer camp pour développeurs Lyonnais
 
 ///
 #Sky is the limit !
